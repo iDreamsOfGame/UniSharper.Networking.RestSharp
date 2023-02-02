@@ -1,0 +1,4 @@
+[submodule "Assets/UniSharper.Networking.RestSharp"]
+	path = Assets/UniSharper.Networking.RestSharp
+	url = https://github.com/iDreamsOfGame/UniSharper.Networking.RestSharp.git
+	branch = upm
